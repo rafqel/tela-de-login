@@ -1,10 +1,10 @@
-# Tela de Login
+# Login Screen
 
-## Sobre
+## About
 
-### O projeto consiste em uma tela de login bem simples, que utilizo HTML E CSS para elabora-la.
+### This project consists of a very simple login screen, which I created using HTML and CSS.
 
-# Resultado Final
+# Final Result
 ![tela-de-login](https://github.com/user-attachments/assets/fae1313a-1c02-479b-a597-22ebf1797209)
 
 #
