@@ -22,9 +22,21 @@ body{
     font-weight: 300px;
 }
 
+.tela-login input[type = "text"],.tela-login input[type = "password"]{
+    background: none;
+    margin: 20px auto;
+    text-align: center;
+    border: solid 2px rgb(255, 155, 213);
+    padding: 14px 35px;
+    outline: none;
+    color: rgb(255, 155, 213);
+    border-radius: 20px;
+    cursor: text;
+}
+
 .tela-login input[type = "text"]:focus,.tela-login input[type = "password"]:focus{
     width: 185px;
-    border-color: white;
+    border-color: rgb(255, 255, 255);
 }
 
 .tela-login input[type = "submit"]{
